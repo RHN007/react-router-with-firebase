@@ -1,0 +1,13 @@
+.header nav a {
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    border: 2px solid green;
+    background-color: aqua;
+
+}
+
+.header nav a:hover {
+    color: tomato
+}
